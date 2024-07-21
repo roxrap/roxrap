@@ -1,0 +1,9 @@
+- 👋 Hola, soy @roxrap
+- 👀 Estoy interesada en integrar la tecnología con las estrategias comerciales, especialmente en el área de créditos y cobranzas.
+- 🌱 Actualmente estoy aprendiendo Python y Power BI para mejorar mis habilidades analíticas y de toma de decisiones basadas en datos.
+- 💞️ Me gustaría colaborar en proyectos relacionados con análisis de datos, mejora de procesos y soluciones IT en los sectores financiero y comercial.
+- 📫 Cómo contactarme: 
+  - Email: roxana.rapali@gmail.com
+  - Teléfono celular: +549 342 501 8700
+- 😄 Pronombres: Roxi
+- ⚡ Dato curioso: Tengo más de 20 años de experiencia en los sectores financiero y comercial, y he trabajado desde cajera hasta gerente, siempre enfocada en el crecimiento profesional y la orientación a resultados.
