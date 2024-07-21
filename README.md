@@ -5,5 +5,6 @@
 - 📫 Cómo contactarme: 
   - Email: roxana.rapali@gmail.com
   - Teléfono celular: +549 342 501 8700
+  - www.linkedin.com/in/roxana-rapali
 - 😄 Pronombres: Roxi
 - ⚡ Dato curioso: Tengo más de 20 años de experiencia en los sectores financiero y comercial, y he trabajado desde cajera hasta gerente, siempre enfocada en el crecimiento profesional y la orientación a resultados.
