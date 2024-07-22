@@ -18,7 +18,8 @@ Estoy comprometida con la revisión y evaluación de procesos para optimizar y e
 * Optimización de Procesos: Utilizo tecnologías avanzadas para simplificar y optimizar los procesos analíticos y de negocio.
 * Automatización de Tareas: Implemento automatización en la limpieza y preparación de datos, actualización de informes y visualizaciones, asegurando que sean fácilmente consumibles por el usuario final.
 
-##📫 Cómo contactarme: ¡No dudes en ponerte en contacto conmigo si quieres hablar sobre proyectos interesantes! Adoro los desafíos...
+## 📫 Cómo contactarme: 
+¡No dudes en ponerte en contacto conmigo si quieres hablar sobre proyectos interesantes! Adoro los desafíos...
 
   - Email: roxana.rapali@gmail.com
   - Teléfono celular: +549 342 501 8700
