@@ -3,12 +3,11 @@
 - 🌱 Actualmente estoy especializándome en herramientas de visualización de datos como Power BI y Looker Studio para mejorar mis habilidades analíticas y de toma de decisiones basadas en datos.
 - 💞️ Me gustaría colaborar en proyectos relacionados con análisis de datos, mejora de procesos y soluciones IT en los sectores financiero y comercial.
 
-Experiencia en Análisis de Datos
+**Experiencia en Análisis de Datos**
 Como analista de datos, no solo me dedico a analizar los datos, sino también a entender la situación del negocio. Mi enfoque crítico me permite identificar tendencias, patrones y problemas potenciales que pueden ser muy valiosos para tomar decisiones estratégicas informadas.
-
-Identificación de Tendencias y Patrones: Analizo los datos para identificar tendencias y patrones que puedan influir en las decisiones estratégicas del negocio.
-Comprensión del Impacto: Trabajo para entender cómo los datos impactan en los resultados del negocio y cómo pueden ser utilizados para mejorar estos resultados.
-Evaluación de KPIs
+* Identificación de Tendencias y Patrones: Analizo los datos para identificar tendencias y patrones que puedan influir en las decisiones estratégicas del negocio.
+* Comprensión del Impacto: Trabajo para entender cómo los datos impactan en los resultados del negocio y cómo pueden ser utilizados para mejorar estos resultados.
+**Evaluación de KPIs**
 La selección y definición de KPIs relevantes para el negocio son clave para que los datos puedan contribuir a la toma de decisiones y ser una brújula para la organización. Me esfuerzo en determinar, medir y monitorear los KPIs para que se constituyan en una verdadera herramienta de gestión empresarial.
 
 Definición de KPIs: Selecciono las métricas clave que alinean con los objetivos estratégicos del negocio.
