@@ -8,13 +8,11 @@ Como analista de datos, no solo me dedico a analizar los datos, sino también a 
 * Identificación de Tendencias y Patrones: Analizo los datos para identificar tendencias y patrones que puedan influir en las decisiones estratégicas del negocio.
 * Comprensión del Impacto: Trabajo para entender cómo los datos impactan en los resultados del negocio y cómo pueden ser utilizados para mejorar estos resultados.
 
-<p>
 **Evaluación de KPIs**
 La selección y definición de KPIs relevantes para el negocio son clave para que los datos puedan contribuir a la toma de decisiones y ser una brújula para la organización. Me esfuerzo en determinar, medir y monitorear los KPIs para que se constituyan en una verdadera herramienta de gestión empresarial.
 * Definición de KPIs: Selecciono las métricas clave que alinean con los objetivos estratégicos del negocio.
 * Medición y Monitoreo: Mido y monitoreo continuamente los KPIs para asegurar que la empresa siga el rumbo correcto y tome decisiones informadas.
 
-<p>
 **Automatización de Procesos**
 Estoy comprometida con la revisión y evaluación de procesos para optimizar y eliminar tareas repetitivas mediante el uso de herramientas tecnológicas avanzadas. Esto no solo mejora los procesos analíticos, sino también los procesos internos y de negocio en general.
 * Optimización de Procesos: Utilizo tecnologías avanzadas para simplificar y optimizar los procesos analíticos y de negocio.
