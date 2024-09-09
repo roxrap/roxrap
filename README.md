@@ -1,29 +1,20 @@
-¡Hola! 👋 Soy Roxana Rapali, una apasionada científica de datos. Mi trabajo se centra en analizar datos y negocios, con un enfoque fuerte en ciencia de datos, ingeniería de datos y machine learning. Me encanta descubrir cómo los datos afectan los resultados y cómo podemos usarlos para impulsar el negocio.
+<h1 align="center">Hi 👋,'m I Hola! 👋 Soy Roxana Rapali,</h1>
+<h3 align="center">Apasionada científica de datos</h3>
 
-🔍 Actualmente estoy profundizando en herramientas de visualización de datos como Power BI y Looker Studio para afinar mis habilidades analíticas y de toma de decisiones.
+- 👨‍💻 All of my projects are available at [Como analista, no solo examino datos, sino que también busco entender el contexto del negocio. Mi enfoque crítico me ayuda a identificar tendencias y problemas que pueden ser clave para decisiones estratégicas.](Como analista, no solo examino datos, sino que también busco entender el contexto del negocio. Mi enfoque crítico me ayuda a identificar tendencias y problemas que pueden ser clave para decisiones estratégicas.)
 
-💡 Estoy interesada en combinar tecnología con estrategias comerciales y colaborar en proyectos de análisis de datos, mejora de procesos y soluciones IT en los sectores financiero y comercial.
+- 📝Experiencia en Análisis de Datos [Como analista, no solo examino datos, sino que también busco entender el contexto del negocio. Mi enfoque crítico me ayuda a identificar tendencias y problemas que pueden ser clave para decisiones estratégicas.](Como analista, no solo examino datos, sino que también busco entender el contexto del negocio. Mi enfoque crítico me ayuda a identificar tendencias y problemas que pueden ser clave para decisiones estratégicas.)
 
-Experiencia en Análisis de Datos
-Como analista, no solo examino datos, sino que también busco entender el contexto del negocio. Mi enfoque crítico me ayuda a identificar tendencias y problemas que pueden ser clave para decisiones estratégicas.
+- 📄 Identificación de Tendencias [Analizo datos para descubrir patrones que puedan guiar las decisiones del negocio. Comprensión del Impacto: Investigo cómo los datos influyen en los resultados y cómo podemos mejorar a partir de ellos. Evaluación de KPIs Definir y monitorear KPIs relevantes es esencial para tomar decisiones informadas. Trabajo para que estos KPIs se conviertan en una brújula para la organización.](Analizo datos para descubrir patrones que puedan guiar las decisiones del negocio. Comprensión del Impacto: Investigo cómo los datos influyen en los resultados y cómo podemos mejorar a partir de ellos. Evaluación de KPIs Definir y monitorear KPIs relevantes es esencial para tomar decisiones informadas. Trabajo para que estos KPIs se conviertan en una brújula para la organización.)
 
-Identificación de Tendencias: Analizo datos para descubrir patrones que puedan guiar las decisiones del negocio.
-Comprensión del Impacto: Investigo cómo los datos influyen en los resultados y cómo podemos mejorar a partir de ellos.
-Evaluación de KPIs
-Definir y monitorear KPIs relevantes es esencial para tomar decisiones informadas. Trabajo para que estos KPIs se conviertan en una brújula para la organización.
+- ⚡ Definición de KPIs **Selecciono métricas clave alineadas con los objetivos estratégicos. Medición y Monitoreo: Mido y rastreo KPIs para mantener a la empresa en el camino correcto. Automatización de Procesos Estoy comprometida con la optimización de procesos para eliminar tareas repetitivas usando tecnología avanzada, lo que mejora tanto los procesos analíticos como los internos del negocio.**
 
-Definición de KPIs: Selecciono métricas clave alineadas con los objetivos estratégicos.
-Medición y Monitoreo: Mido y rastreo KPIs para mantener a la empresa en el camino correcto.
-Automatización de Procesos
-Estoy comprometida con la optimización de procesos para eliminar tareas repetitivas usando tecnología avanzada, lo que mejora tanto los procesos analíticos como los internos del negocio.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/roxana-rapali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/roxana-rapali" height="30" width="40" /></a>
+<a href="https://fb.com/roxana rapali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roxana rapali" height="30" width="40" /></a>
+<a href="https://instagram.com/roxanarapali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roxanarapali" height="30" width="40" /></a>
+</p>
 
-Optimización de Procesos: Uso tecnologías avanzadas para simplificar y mejorar procesos.
-Automatización de Tareas: Implemento automatización en limpieza de datos y actualización de informes para facilitar su uso.
-📫 ¿Te gustaría charlar sobre proyectos interesantes? ¡Estoy lista para los desafíos!
-Email: roxana.rapali@gmail.com
-Teléfono: +549 342 501 8700
-LinkedIn: www.linkedin.com/in/roxana-rapali
-Soy adaptable a nuevos entornos y siempre busco mejorar procesos. ¡Espero con interés nuevas oportunidades en el mundo IT!
-
-😄 Pronombres: Roxi
-⚡ Dato curioso: Con más de 20 años en el sector financiero y comercial, he pasado de cajera a gerente, siempre orientada al crecimiento y a resultados.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
