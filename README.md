@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,'m I Hola! 👋 Soy Roxana Rapali,</h1>
+<h1 align="center">Hola! 👋 Soy Roxana Rapali,</h1>
 <h3 align="center">Apasionada científica de datos</h3>
 
 - 👨‍💻 All of my projects are available at [Como analista, no solo examino datos, sino que también busco entender el contexto del negocio. Mi enfoque crítico me ayuda a identificar tendencias y problemas que pueden ser clave para decisiones estratégicas.](Como analista, no solo examino datos, sino que también busco entender el contexto del negocio. Mi enfoque crítico me ayuda a identificar tendencias y problemas que pueden ser clave para decisiones estratégicas.)
