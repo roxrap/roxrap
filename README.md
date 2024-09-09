@@ -3,7 +3,6 @@
 
 - 🔭 En este repositorio se desarrolla un foro que permite a los usuarios escribir y presentar sus publicaciones de manera atractiva. Utilizando tecnologías de programación web. El proyecto incluye un formulario de creación de posts que permite ingresar el título y contenido del post, el enlace (URL) de una imagen relevante de internet y asignar la fecha de creación. Las imágenes se muestran de manera óptima y el diseño general del foro es responsivo, proporcionando una experiencia agradable en diferentes dispositivos. [Foro Atractivo y Responsivo](https://github.com/roxrap/Programacion_Web)
 
-- 🌱 Actualmente estoy profundizando en herramientas de visualización de datos para afinar mis habilidades analíticas y de toma de decisiones. **Power BI y Looker Studio**
 
 - 👯 Este proyecto ha sido desarrollado en respuesta a una solicitud específica de la Agencia de Seguridad Vial. El objetivo principal es analizar y proporcionar soluciones basadas en datos para mejorar la seguridad en las calles, particularmente en avenidas y esquinas, donde se ha observado una alta frecuencia de incidentes. [Análisis de Seguridad Vial](https://github.com/roxrap/Accidentes-viales-PI2)
 
@@ -17,6 +16,8 @@
 
 - ⚡ Medición y Monitoreo **Mido y rastreo KPIs para mantener a la empresa en el camino correcto.**
 
+- 🌱 Actualmente estoy profundizando en herramientas de visualización de datos para afinar mis habilidades analíticas y de toma de decisiones. **Power BI y Looker Studio**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roxana-rapali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roxana-rapali" height="30" width="40" /></a>
