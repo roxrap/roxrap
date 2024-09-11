@@ -8,16 +8,17 @@
 
 - 🤝 Este es un proyecto que se enfoca en apoyar a un inversor pequeño en su incursión en el sector de restaurantes en Estados Unidos. Nuestro objetivo principal es desarrollar un sistema integral de análisis del mercado de restaurantes en el condado de Los Ángeles, CA, proporcionando información valiosa para la toma de decisiones estratégicas. [Proyecto de Data Science para Restaurantes de Los Ángeles](https://github.com/franciscoagamez/PF_google_yelp)
 
-- 👨‍💻 Experiencia en Análisis de Datos [Como analista, no solo examino datos, sino que también busco entender el contexto del negocio. Mi enfoque crítico me ayuda a identificar tendencias y problemas que pueden ser clave para decisiones estratégicas.](Como analista, no solo examino datos, sino que también busco entender el contexto del negocio. Mi enfoque crítico me ayuda a identificar tendencias y problemas que pueden ser clave para decisiones estratégicas.)
-
-- 📝Comprensión del Impacto [Investigo cómo los datos influyen en los resultados y cómo podemos mejorar a partir de ellos.](Investigo cómo los datos influyen en los resultados y cómo podemos mejorar a partir de ellos.)
-
-- 📄 Evaluación de KPIs [Definir y monitorear KPIs relevantes es esencial para tomar decisiones informadas. Trabajo para que estos KPIs se conviertan en una brújula para la organización.](Definir y monitorear KPIs relevantes es esencial para tomar decisiones informadas. Trabajo para que estos KPIs se conviertan en una brújula para la organización.)
-
-- ⚡ Medición y Monitoreo **Mido y rastreo KPIs para mantener a la empresa en el camino correcto.**
-
 - 🌱 Actualmente estoy profundizando en herramientas de visualización de datos para afinar mis habilidades analíticas y de toma de decisiones. **Power BI y Looker Studio**
-- 
+
+### Experiencia en Análisis de Datos:
+- 🎯Enfoque en negocio: Como analista, no solo examino datos, sino que también busco entender el contexto del negocio. Mi enfoque crítico me ayuda a identificar **tendencias** y problemas que pueden ser clave para decisiones estratégicas.
+
+- 📝Comprensión del Impacto: Investigo cómo los datos influyen en los **resultados** y cómo podemos mejorar a partir de ellos.
+
+- 📄 Evaluación de KPIs: Definir y monitorear KPIs relevantes es esencial para tomar **decisiones** informadas. Trabajo para que estos KPIs se conviertan en una brújula para la organización.
+
+- ⚡ Medición y Monitoreo: Mido y rastreo **KPIs** para mantener a la empresa en el camino correcto.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roxana-rapali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roxana-rapali" height="30" width="40" /></a>
